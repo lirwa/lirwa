@@ -1,13 +1,8 @@
 
-*{
-    margin: 0px;
-    padding: 0px;
-}
-
 .wrapper{
-    width: 1000px;
+    width: 80%;
     border:  solid black;
-    background-color: ghostwhite;
+    background-color: skyblue;
     margin: 0 auto 0 auto;
 }
 .heading{
@@ -62,10 +57,10 @@
 }
 
 #para{
-    margin-left: 40px;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    margin-right: 40px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 30px;
     color: black;
 }
 
@@ -82,7 +77,8 @@
     border: 2px solid black;
     margin-left: 250px;
     margin-top: 10px;
-    background-color: ghostwhite;
+    height: 350px;
+    width: 500px;
 }
 
 input[type=text], select, textarea {
@@ -120,8 +116,8 @@ input[type=submit]:hover {
     margin-right: 80px;
     margin-left: 40px;
     float: left;
-    width: 200px;
-    height: 200px;
+    width: 255px;
+    height: 255px;
     margin-bottom: 290px;
 
 
@@ -148,3 +144,9 @@ input[type=submit]:hover {
     text-align: center;
 }
 
+body {
+    font-family: 'Anton';font-size: 22px;
+}
+#mata{
+    margin-left: 80px;
+}
